@@ -1,6 +1,6 @@
 # To-Do List Web Application
 
-A Spring Boot based To-Do List web application that allows users to manage daily tasks efficiently.
+A Spring Framework based To-Do List web application that allows users to manage daily tasks efficiently.
 
 ## Tech Stack
 - Java
