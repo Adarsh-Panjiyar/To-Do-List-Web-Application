@@ -4,10 +4,10 @@ A Spring Framework based To-Do List web application that allows users to manage 
 
 ## Tech Stack
 - Java
-- Spring Boot
+- Spring Framework
 - Spring MVC
 - Spring Data JPA
-- Thymeleaf
+- JSP
 - MySQL
 - HTML, CSS
 
