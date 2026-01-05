@@ -6,7 +6,7 @@ A Spring Framework based To-Do List web application that allows users to manage 
 - Java
 - Spring Framework
 - Spring MVC
-- Spring Data JPA
+- Spring CrudRepo
 - JSP
 - MySQL
 - HTML, CSS
